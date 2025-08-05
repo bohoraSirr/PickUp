@@ -9,11 +9,11 @@
     align-items: center;
     gap: 10px;
 }
-.nav-logo p{
+.nav-logo p a{
     color: #171717;
     font-size: 32px;
     font-weight: 500;
-    
+    text-decoration: none;
 }
 .nav-menu{
     display: flex;

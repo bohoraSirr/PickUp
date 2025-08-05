@@ -21,6 +21,6 @@
     text-decoration: line-through;
 }
 .item:hover{
-    transform: scale(1.05);
+    transform: scale(1.03);
     transition: 0.8s;
 }
